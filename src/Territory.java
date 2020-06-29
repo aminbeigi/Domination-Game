@@ -36,4 +36,3 @@ public class Territory {
         return "[" + column + "," + row + "]" + owner + "(" + armies + ")";
     }
 }
- 
