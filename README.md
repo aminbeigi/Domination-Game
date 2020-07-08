@@ -3,4 +3,4 @@ Domination-Game is a text-based simple variation of the classic board game Domin
 ## Example
 ![Alt text](https://i.imgur.com/HnujRuy.png)
 ## License
-Free to use.
+MIT License
